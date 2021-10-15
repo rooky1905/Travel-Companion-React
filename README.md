@@ -1,3 +1,14 @@
+
+# About
+Travel Companion which helps you find Restaurants, Hotels, and Attractions of a location. Using Google APIs, and much more. With a beautiful UI and a Map to interact with.
+With functionalities like selecting from Restaurants, Hotels and Attractions and also ability to filter them by ratings.
+We can manually drag the pointer of the map to refresh and refetch new info based on the current location.
+Search powered by Google API enhances the search experience much more!
+
+## Sample Image of the Web-App
+![](Sample%20Image.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
